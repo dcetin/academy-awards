@@ -225,7 +225,7 @@ Ceremony,Won,Name,Birthdate,Film
 46,FALSE,Bernardo Bertolucci,"March 16, 1941",Last Tango in Paris
 46,TRUE,George Roy Hill,"December 20, 1921",The Sting
 47,FALSE,Roman Polanski,"August 18, 1933",Chinatown
-47,FALSE,Francois Truffaut,"February 06, 1932",Day for Night
+47,FALSE,François Truffaut,"February 06, 1932",Day for Night
 47,TRUE,Francis Ford Coppola,"April 07, 1939",The Godfather Part II
 47,FALSE,Bob Fosse,"June 23, 1927",Lenny
 47,FALSE,John Cassavetes,"December 09, 1929",A Woman under the Influence
@@ -233,12 +233,12 @@ Ceremony,Won,Name,Birthdate,Film
 48,FALSE,Stanley Kubrick,"July 26, 1928",Barry Lyndon
 48,FALSE,Sidney Lumet,"June 25, 1924",Dog Day Afternoon
 48,FALSE,Robert Altman,"February 20, 1925",Nashville
-48,TRUE,Milos Forman,"February 18, 1932",One Flew over the Cuckoo's Nest
+48,TRUE,Miloš Forman,"February 18, 1932",One Flew over the Cuckoo's Nest
 49,FALSE,Alan J. Pakula,"April 07, 1928",All the President's Men
 49,FALSE,Ingmar Bergman,"July 14, 1918",Face to Face
 49,FALSE,Sidney Lumet,"June 25, 1924",Network
 49,TRUE,John G. Avildsen,"December 21, 1935",Rocky
-49,FALSE,Lina Wertmuller,"August 14, 1928",Seven Beauties
+49,FALSE,Lina Wertmüller,"August 14, 1928",Seven Beauties
 50,TRUE,Woody Allen,"December 01, 1935",Annie Hall
 50,FALSE,Steven Spielberg,"December 18, 1946",Close Encounters of the Third Kind
 50,FALSE,Fred Zinnemann,"April 29, 1907",Julia
@@ -254,7 +254,7 @@ Ceremony,Won,Name,Birthdate,Film
 52,FALSE,Francis Ford Coppola,"April 07, 1939",Apocalypse Now
 52,FALSE,Peter Yates,"July 24, 1929",Breaking Away
 52,TRUE,Robert Benton,"September 29, 1932",Kramer vs. Kramer
-52,FALSE,Edouard Molinaro,"May 13, 1928",La Cage aux Folles
+52,FALSE,Édouard Molinaro,"May 13, 1928",La Cage aux Folles
 53,FALSE,David Lynch,"January 20, 1946",The Elephant Man
 53,TRUE,Robert Redford,"August 18, 1936",Ordinary People
 53,FALSE,Martin Scorsese,"November 17, 1942",Raging Bull
@@ -275,26 +275,26 @@ Ceremony,Won,Name,Birthdate,Film
 56,FALSE,Mike Nichols,"November 06, 1931",Silkwood
 56,FALSE,Bruce Beresford,"August 16, 1940",Tender Mercies
 56,TRUE,James L. Brooks,"May 09, 1940",Terms of Endearment
-57,TRUE,Milos Forman,"February 18, 1932",Amadeus
+57,TRUE,Miloš Forman,"February 18, 1932",Amadeus
 57,FALSE,Woody Allen,"December 01, 1935",Broadway Danny Rose
-57,FALSE,Roland Joffe,"November 17, 1945",The Killing Fields
+57,FALSE,Roland Joffé,"November 17, 1945",The Killing Fields
 57,FALSE,David Lean,"March 25, 1908",A Passage to India
 57,FALSE,Robert Benton,"September 29, 1932",Places in the Heart
-58,FALSE,Hector Babenco,"February 07, 1946",Kiss of the Spider Woman
+58,FALSE,Héctor Babenco,"February 07, 1946",Kiss of the Spider Woman
 58,TRUE,Sydney Pollack,"July 01, 1934",Out of Africa
 58,FALSE,John Huston,"August 05, 1906",Prizzi's Honor
 58,FALSE,Akira Kurosawa,"March 23, 1910",Ran
 58,FALSE,Peter Weir,"August 21, 1944",Witness
 59,FALSE,David Lynch,"January 20, 1946",Blue Velvet
 59,FALSE,Woody Allen,"December 01, 1935",Hannah and Her Sisters
-59,FALSE,Roland Joffe,"November 17, 1945",The Mission
+59,FALSE,Roland Joffé,"November 17, 1945",The Mission
 59,TRUE,Oliver Stone,"September 15, 1946",Platoon
 59,FALSE,James Ivory,"June 07, 1928",A Room with a View
 60,FALSE,Adrian Lyne,"March 04, 1941",Fatal Attraction
 60,FALSE,John Boorman,"January 18, 1933",Hope and Glory
 60,TRUE,Bernardo Bertolucci,"March 16, 1941",The Last Emperor
 60,FALSE,Norman Jewison,"July 21, 1926",Moonstruck
-60,FALSE,Lasse Hallstrom,"June 02, 1946",My Life as a Dog
+60,FALSE,Lasse Hallström,"June 02, 1946",My Life as a Dog
 61,FALSE,Charles Crichton,"August 06, 1910",A Fish Called Wanda
 61,FALSE,Martin Scorsese,"November 17, 1942",The Last Temptation of Christ
 61,FALSE,Alan Parker,"February 14, 1944",Mississippi Burning
@@ -329,7 +329,7 @@ Ceremony,Won,Name,Birthdate,Film
 67,TRUE,Robert Zemeckis,"May 14, 1952",Forrest Gump
 67,FALSE,Quentin Tarantino,"March 27, 1963",Pulp Fiction
 67,FALSE,Robert Redford,"August 18, 1936",Quiz Show
-67,FALSE,Krzysztof Kieslowski,"June 27, 1941",Red
+67,FALSE,Krzysztof Kieślowski,"June 27, 1941",Red
 68,FALSE,Chris Noonan,"November 14, 1952",Babe
 68,TRUE,Mel Gibson,"January 03, 1956",Braveheart
 68,FALSE,Tim Robbins,"October 16, 1958",Dead Man Walking
@@ -337,7 +337,7 @@ Ceremony,Won,Name,Birthdate,Film
 68,FALSE,Michael Radford,"February 24, 1946",The Postman (Il Postino)
 69,TRUE,Anthony Minghella,"January 06, 1954",The English Patient
 69,FALSE,Joel Coen,"November 29, 1954",Fargo
-69,FALSE,Milos Forman,"February 18, 1932",The People vs. Larry Flynt
+69,FALSE,Miloš Forman,"February 18, 1932",The People vs. Larry Flynt
 69,FALSE,Mike Leigh,"February 20, 1943",Secrets & Lies
 69,FALSE,Scott Hicks,"March 04, 1953",Shine
 70,FALSE,Peter Cattaneo,"July 01, 1964",The Full Monty
@@ -352,7 +352,7 @@ Ceremony,Won,Name,Birthdate,Film
 71,FALSE,Peter Weir,"August 21, 1944",The Truman Show
 72,TRUE,Sam Mendes,"August 01, 1965",American Beauty
 72,FALSE,Spike Jonze,"October 22, 1969",Being John Malkovich
-72,FALSE,Lasse Hallstrom,"June 02, 1946",The Cider House Rules
+72,FALSE,Lasse Hallström,"June 02, 1946",The Cider House Rules
 72,FALSE,Michael Mann,"February 05, 1943",The Insider
 72,FALSE,M. Night Shyamalan,"August 06, 1970",The Sixth Sense
 73,FALSE,Stephen Daldry,"May 02, 1960",Billy Elliot
@@ -369,7 +369,7 @@ Ceremony,Won,Name,Birthdate,Film
 75,FALSE,Martin Scorsese,"November 17, 1942",Gangs of New York
 75,FALSE,Stephen Daldry,"May 02, 1960",The Hours
 75,TRUE,Roman Polanski,"August 18, 1933",The Pianist
-75,FALSE,Pedro Almodovar,"September 25, 1949",Talk to Her
+75,FALSE,Pedro Almodóvar,"September 25, 1949",Talk to Her
 76,FALSE,Fernando Meirelles,"November 09, 1955",City of God
 76,TRUE,Peter Jackson,"October 31, 1961",The Lord of the Rings: The Return of the King
 76,FALSE,Sofia Coppola,"May 14, 1971",Lost in Translation
@@ -385,7 +385,7 @@ Ceremony,Won,Name,Birthdate,Film
 78,FALSE,Paul Haggis,"March 10, 1953",Crash
 78,FALSE,George Clooney,"May 06, 1961","Good Night, and Good Luck."
 78,FALSE,Steven Spielberg,"December 18, 1946",Munich
-79,FALSE,Alejandro G. Inarritu,"August 15, 1963",Babel
+79,FALSE,Alejandro G. Iñárritu,"August 15, 1963",Babel
 79,TRUE,Martin Scorsese,"November 17, 1942",The Departed
 79,FALSE,Clint Eastwood,"May 31, 1930",Letters from Iwo Jima
 79,FALSE,Stephen Frears,"June 20, 1941",The Queen
@@ -423,18 +423,18 @@ Ceremony,Won,Name,Birthdate,Film
 85,FALSE,Steven Spielberg,"December 18, 1946",Lincoln
 85,FALSE,David O. Russell,"August 20, 1958",Silver Linings Playbook
 86,FALSE,David O. Russell,"August 20, 1958",American Hustle
-86,TRUE,Alfonso Cuaron,"November 28, 1961",Gravity
+86,TRUE,Alfonso Cuarón,"November 28, 1961",Gravity
 86,FALSE,Alexander Payne,"February 10, 1961",Nebraska
 86,FALSE,Steve McQueen,"October 09, 1969",12 Years a Slave
 86,FALSE,Martin Scorsese,"November 17, 1942",The Wolf of Wall Street
-87,TRUE,Alejandro G. Inarritu,"August 15, 1963",Birdman or (The Unexpected Virtue of Ignorance)
+87,TRUE,Alejandro G. Iñárritu,"August 15, 1963",Birdman or (The Unexpected Virtue of Ignorance)
 87,FALSE,Richard Linklater,"July 30, 1960",Boyhood
 87,FALSE,Bennett Miller,"December 30, 1966",Foxcatcher
 87,FALSE,Wes Anderson,"May 01, 1969",The Grand Budapest Hotel
 87,FALSE,Morten Tyldum,"May 19, 1967",The Imitation Game
 88,FALSE,Adam McKay,"April 17, 1968",The Big Short
 88,FALSE,George Miller,"March 03, 1945",Mad Max: Fury Road
-88,TRUE,Alejandro G. Inarritu,"August 15, 1963",The Revenant
+88,TRUE,Alejandro G. Iñárritu,"August 15, 1963",The Revenant
 88,FALSE,Lenny Abrahamson,"November 30, 1966",Room
 88,FALSE,Tom McCarthy,"June 07, 1966",Spotlight
 89,FALSE,Denis Villeneuve,"October 03, 1967",Arrival
@@ -450,5 +450,5 @@ Ceremony,Won,Name,Birthdate,Film
 91,FALSE,Spike Lee,"March 20, 1957",BlacKkKlansman
 91,FALSE,Pawel Pawlikowski,"September 15, 1957",Cold War
 91,FALSE,Yorgos Lanthimos,"September 23, 1973",The Favourite
-91,TRUE,Alfonso Cuaron,"November 28, 1961",Roma
+91,TRUE,Alfonso Cuarón,"November 28, 1961",Roma
 91,FALSE,Adam McKay,"April 17, 1968",Vice
