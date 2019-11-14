@@ -36,7 +36,7 @@ Ceremony,Won,Name,Birthdate,Film,Role
 8,FALSE,Miriam Hopkins,"October 18, 1902",Becky Sharp,Becky Sharp
 8,FALSE,Merle Oberon,"February 19, 1911",The Dark Angel,Kitty Vane
 9,FALSE,Irene Dunne,"December 20, 1898",Theodora Goes Wild,Theodora Lynn
-9,FALSE,Gladys George,,Valiant Is the Word for Carrie,Carrie Snyder
+9,FALSE,Gladys George,"September 13, 1904",Valiant Is the Word for Carrie,Carrie Snyder
 9,FALSE,Carole Lombard,"October 6, 1908",My Man Godfrey,Irene Bullock
 9,TRUE,Luise Rainer,"January 12, 1910",The Great Ziegfeld,Anna Held
 9,FALSE,Norma Shearer,"August 10, 1902",Romeo and Juliet,Juliet
@@ -219,7 +219,7 @@ Ceremony,Won,Name,Birthdate,Film,Role
 45,FALSE,Diana Ross,"March 26, 1944",Lady Sings the Blues,Billie Holiday
 45,FALSE,Maggie Smith,"December 28, 1934",Travels with My Aunt,Aunt Augusta
 45,FALSE,Cicely Tyson,"December 19, 1924",Sounder,Rebecca Morgan
-45,FALSE,Liv Ullmann,16 December 1938,The Emigrants,Kristina
+45,FALSE,Liv Ullmann,"December 16, 1938",The Emigrants,Kristina
 46,FALSE,Ellen Burstyn,"December 7, 1932",The Exorcist,Chris MacNeil
 46,TRUE,Glenda Jackson,"May 9, 1936",A Touch of Class,Vicki Allessio
 46,FALSE,Marsha Mason,"April 3, 1942",Cinderella Liberty,Maggie Paul
@@ -239,7 +239,7 @@ Ceremony,Won,Name,Birthdate,Film,Role
 49,TRUE,Faye Dunaway,"January 14, 1941",Network,Diana Christensen
 49,FALSE,Talia Shire,"April 25, 1946",Rocky,Adrian
 49,FALSE,Sissy Spacek,"December 25, 1949",Carrie,Carrie White
-49,FALSE,Liv Ullmann,16 December 1938,Face to Face,Dr. Jenny Isaksson
+49,FALSE,Liv Ullmann,"December 16, 1938",Face to Face,Dr. Jenny Isaksson
 50,FALSE,Anne Bancroft,"September 17, 1931",The Turning Point,Emma Jacklin
 50,FALSE,Jane Fonda,"December 21, 1937",Julia,Lillian Hellman
 50,TRUE,Diane Keaton,"January 5, 1946",Annie Hall,Annie Hall
@@ -352,7 +352,7 @@ Ceremony,Won,Name,Birthdate,Film,Role
 71,FALSE,Emily Watson,"January 14, 1967",Hilary and Jackie,Jacqueline du Pré
 72,FALSE,Annette Bening,"May 29, 1958",American Beauty,Carolyn Burnham
 72,FALSE,Janet McTeer,"August 5, 1961",Tumbleweeds,Mary Jo Walker
-72,FALSE,Julianne Moore,"December 3, 1960""December 31, 1941",The End of the Affair,Sarah Miles
+72,FALSE,Julianne Moore,"December 3, 1960",The End of the Affair,Sarah Miles
 72,FALSE,Meryl Streep,"June 22, 1949",Music of the Heart,Roberta Guaspari
 72,TRUE,Hilary Swank,"July 30, 1974",Boys Don't Cry,Brandon Teena/Teena Brandon
 73,FALSE,Joan Allen,"August 20, 1956",The Contender,Laine Hanson
