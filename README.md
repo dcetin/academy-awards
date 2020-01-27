@@ -1,6 +1,7 @@
 # Academy Awards Datasets
 
-Interactive plots can be viewed in the [project page](http://dcetin.me/en/blog/academy-awards).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dcetin/academy-awards/blob/master/academy_awards.ipynb)
+Interactive plots can be toyed with more easily via the [project page](http://dcetin.me/en/blog/academy-awards) (best viewed in desktop).
 
 ![header-img](http://dcetin.me//assets/posts/academy-awards-2.jpg)
 
