@@ -454,4 +454,4 @@ Ceremony,Won,Name,Birthdate,Film,Role
 92,FALSE,Scarlett Johansson,"November 22, 1984",Marriage Story,Nicole Barber
 92,FALSE,Saoirse Ronan,"April 12, 1994",Little Women,Josephine 'Jo' March
 92,FALSE,Charlize Theron,"August 07, 1975",Bombshell,Megyn Kelly
-92,FALSE,Renée Zellweger,"April 25, 1969",Judy,Judy Garland
+92,TRUE,Renée Zellweger,"April 25, 1969",Judy,Judy Garland

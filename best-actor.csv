@@ -449,5 +449,5 @@ Ceremony,Won,Name,Birthdate,Film,Role
 92,FALSE,Antonio Banderas,"August 10, 1960",Pain and Glory,Salvador Mallo
 92,FALSE,Leonardo DiCaprio,"November 11, 1974",Once Upon a Time in Hollywood,Rick Dalton
 92,FALSE,Adam Driver,"November 19, 1983",Marriage Story,Charlie Barber
-92,FALSE,Joaquin Phoenix,"October 28, 1974",Joker,Arthur Fleck/Joker
+92,TRUE,Joaquin Phoenix,"October 28, 1974",Joker,Arthur Fleck/Joker
 92,FALSE,Jonathan Pryce,"June 01, 1947",The Two Popes,Cardinal Jorge Mario Bergoglio

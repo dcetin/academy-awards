@@ -456,4 +456,4 @@ Ceremony,Won,Name,Birthdate,Film
 92,FALSE,Todd Phillips,"December 20, 1970",Joker
 92,FALSE,Sam Mendes,"August 01, 1965",1917
 92,FALSE,Quentin Tarantino,"March 27, 1963",Once Upon a Time in Hollywood
-92,FALSE,Bong Joon-ho,"September 14, 1969",Parasite
+92,TRUE,Bong Joon-ho,"September 14, 1969",Parasite
